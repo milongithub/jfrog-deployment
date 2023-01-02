@@ -1,0 +1,28 @@
+1. root user    ------>  sudo su -
+2. download jfrog -------->    wget https://releases.jfrog.io/artifactory/bintray-artifactory/org/artifactory/oss/jfrog-artifactory-oss/[RELEASE]/jfrog-artifactory-oss-[RELEASE]-linux.tar.gz?_gl=1*1li7shh*_ga*NDE5NTQ4Mzk4LjE2NTc3OTg1NTM.*_ga_SQ1NR9VTFJ*MTY1Nzg3NzAzNi40LjEuMTY1Nzg3NzA4NS4xMQ..
+
+3. ls
+ 
+4. tar -zvxf tar -zvxf jfrog-artifactory-oss-\[RELEASE\]-linux.tar.gz\?_gl\=1\*1li7shh\*_ga\*NDE5NTQ4Mzk4LjE2NTc3OTg1NTM.\*_ga_SQ1NR9VTFJ\*MTY1Nzg3NzAzNi40LjEuMTY1Nzg3NzA4NS4xMQ..
+
+5. ls
+
+6. cd artifactory-oss-7.49.3/
+
+7. ls
+
+8. cd app/
+
+9. cd bin
+
+10. ls
+
+11. ./artifactoryctl
+
+12. go to AWS account click on instance jfrog and copy ipv4 and paste it in new tab with 8082.
+
+13.  username--- admin     pwd ----- password
+
+14. change pwd ---- pasword@112233 
+
+15. skip  skip  skip finish 
